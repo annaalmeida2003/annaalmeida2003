@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @annaalmeida2003
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-annaalmeida2003/annaalmeida2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Olá, eu sou a annaalmeida2003
+- 🌱 Estudante de Sistemas para Internet
+- 💞️ Aluna do #Alura
+-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?annaalmeida2003=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
