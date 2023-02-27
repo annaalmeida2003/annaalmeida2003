@@ -1,4 +1,9 @@
-h3> Olá, bem vindo ao meu perfil. Prazer, Anna.</h3>
+Olá, bem vindo ao meu perfil. Prazer, Anna.
+<br>
+<br>
+Redes Sociais
+<br>
+<br>
 <img align= "center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href= "www.linkedin.com/in/anaalmeidaa">
 <img align= "center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" href= "https://www.instagram.com/annaallmeida__/">
 <br>
@@ -9,7 +14,7 @@ h3> Olá, bem vindo ao meu perfil. Prazer, Anna.</h3>
 
 
 
-## Tecnologias que mais utilizo no meu dia
+## Tecnologias que mais utilizo no meu dia :)
 
 <div style = "display: inline_block"></br>
 
