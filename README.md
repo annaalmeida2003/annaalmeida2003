@@ -4,8 +4,8 @@ Olá, bem vindo ao meu perfil. Prazer, Anna.
 Redes Sociais
 <br>
 <br>
-<img align= "center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href= "www.linkedin.com/in/anaalmeidaa">
-<img align= "center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" href= "https://www.instagram.com/annaallmeida__/">
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/annaallmeida__/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/anaalmeidaa)
 <br>
 <br>
 
